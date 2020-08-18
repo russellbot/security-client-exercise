@@ -1,5 +1,5 @@
 # security-client-exercise
-For Udemy course - Security
+ https://russellbot.github.io/security-client-exercise/
 
 Run in conjunction with security-server-exercise repo
 
